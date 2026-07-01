@@ -6,3 +6,7 @@ Kita
 Pergi
 Mati
 Bersama
+
+Bantai 
+Muaz
+Bersama
